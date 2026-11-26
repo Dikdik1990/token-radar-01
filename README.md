@@ -1,5 +1,11 @@
 # Token Radar — make.fun bounty `token-radar-01` (radar-2)
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/Dikdik1990/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/Dikdik1990/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/token-radar-01)'s "Build the best token launch radar" bounty, $1,325 in USDC.
+
 A program + dashboard that ranks the 40 pre-token protocols on make.fun's
 watchlist (plus 138 pre-token protocols below the $50M floor it finds itself)
 by what their token launch would be worth, and shows how to farm each one.
@@ -59,5 +65,4 @@ Requires Node.js 22.18+. No install, no network, stdlib only, deterministic
 
 ## Status
 
-Local build only. **Not submitted**: no GitHub repo, no transcripts bundle,
-no Solana wallet, no login. See `VALIDATION.md` for what is still missing.
+Entry for make.fun's [token-radar-01 bounty](https://make.fun/bounty/token-radar-01). See `VALIDATION.md` for the local check results.
